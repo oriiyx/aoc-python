@@ -1,8 +1,11 @@
-import y2024.day01
+from y2024 import day01, day02
 from y2019 import day03
 from y2024 import *
 
 # day03.solve()
 
-y2024.day01.part_1()
-y2024.day01.part_2()
+# day01.part_1()
+# day01.part_2()
+
+day02.part_1()
+day02.part_2()

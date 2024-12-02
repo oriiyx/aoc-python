@@ -7,5 +7,4 @@ from y2024 import *
 # day01.part_1()
 # day01.part_2()
 
-day02.part_1()
-day02.part_2()
+day02.part_1_2()
